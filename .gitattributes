@@ -1,0 +1,1 @@
+MyProject1-arm64.apk filter=lfs diff=lfs merge=lfs -text
